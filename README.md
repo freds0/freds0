@@ -1,11 +1,19 @@
-### Hi there 👋
+### Hi there. I'm Fred. 👋
 
+I work as a professor at the Faculty of Engineering at the Federal University of Mato Grosso ([UFMT](https://www.faeng.ufmt.br/)), in Brazil, where I teach Computer Science content for engineering courses.
+
+I am a Phd student in  artificial intelligence, at the Federal University of Goiás ([UFG](https://inf.ufg.br/)), where I carry out research on speech processing.
+
+Some of my repositories are available here, a little disorganized, but I still plan to get some order in the future. Some information can be found at:
+
+- My personal web page: [https://www.fredso.com.br/](https://www.fredso.com.br/)
+- Project page Mr. Falante, which has a brief description of the projects related to speech: [https://www.mrfalante.com.br](https://www.mrfalante.com.br)
 <!--
 **freds0/freds0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I work as a professor at Federal University of Mato Grosso ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I work as a Machine Learning Engineer in a financial company and I'm a master's degree student in artificial intelligence. I love new challenges involving programming, AI, data, and business. I enjoy working with python (TensorFlow, Keras, Sklearn, pandas, numpy) and typescript in Angular projects. My interest is to create new open source projects to help the community with AI and data science.
