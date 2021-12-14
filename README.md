@@ -6,8 +6,8 @@ I am a Phd student in  artificial intelligence, at the Federal University of Goi
 
 Some of my repositories are available here, a little disorganized, but I still plan to get some order in the future. Some information can be found at:
 
-- My personal web page: [https://www.fredso.com.br/](https://www.fredso.com.br/)
-- Project page Mr. Falante, which has a brief description of the projects related to speech: [https://www.mrfalante.com.br](https://www.mrfalante.com.br)
+- [https://www.fredso.com.br/](https://www.fredso.com.br/): my personal web page.
+- [https://www.mrfalante.com.br](https://www.mrfalante.com.br): some projects on speech processing in Brazilian Portuguese.
 <!--
 **freds0/freds0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
