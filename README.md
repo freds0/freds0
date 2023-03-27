@@ -1,10 +1,8 @@
 ### Hi there. I'm Fred. 👋
 
-I work as a professor at the Faculty of Engineering at the Federal University of Mato Grosso ([UFMT](https://www.faeng.ufmt.br/)), in Brazil, where I teach Computer Science content for engineering courses.
+I am a professor at the Faculty of Engineering, Federal University of Mato Grosso (UFMT), Brazil. My main focus is teaching computer science content for engineering courses. Additionally, I am a Ph.D. student in Artificial Intelligence at the Federal University of Goiás (UFG). My research interests are in speech processing.
 
-I am a Phd student in  artificial intelligence, at the Federal University of Goiás ([UFG](https://inf.ufg.br/)), where I carry out research on speech processing.
-
-Some of my repositories are available here, a little disorganized, but I still plan to get some order in the future. Some information can be found at:
+I have some repositories that can be found here, although they may appear disorganized at the moment. I plan to arrange them properly in the future. For more information, please visit:
 
 - [https://www.fredso.com.br/](https://www.fredso.com.br/): my personal web page.
 - [https://www.mrfalante.com.br](https://www.mrfalante.com.br): some projects on speech processing in Brazilian Portuguese.
