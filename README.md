@@ -4,8 +4,9 @@ I hold the position of a professor at the esteemed Faculty of Engineering within
 
 I've taken the initiative to curate several repositories, which can be accessed here. While they may currently appear somewhat unorganized, I am actively planning to arrange them in a more structured manner in the future. For those seeking additional insights, I kindly invite you to explore further through the following links:
 
-    https://www.fredso.com.br/: A glimpse into my personal webpage.
-    https://www.mrfalante.com.br: A collection of projects centered around the fascinating domain of speech processing, particularly in the context of Brazilian Portuguese.
+- [https://www.fredso.com.br](https://www.fredso.com.br): A glimpse into my personal webpage.
+- [https://www.mrfalante.com.br](https://www.mrfalante.com.br): A collection of projects centered around the fascinating domain of speech processing, particularly in the context of Brazilian Portuguese.
+
 <!--
 **freds0/freds0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
